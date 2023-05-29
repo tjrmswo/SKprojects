@@ -1,0 +1,56 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.serch{
+    width: 30%;
+    margin-right: 50px;
+    font-size: 15px;
+}
+.market2{
+    width: 100%;
+    height: 150px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.s2{
+    text-align: left;
+}
+/* 리뷰 페이지 css */
+.evaluation{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.dddsss{
+    padding: 2em;
+}
+.score{
+    font-size: 30px;
+}
+.star{
+    font-size: 23px;
+    font-weight: 800;
+}
+.serch2{
+    font-size: large;
+    font-weight: 800;
+    padding-bottom: 0.3em;
+}
+.evaluation2{
+    display: flex;
+    flex-direction: row;
+}
+.profile{
+    width: 100%;
+    height: 50px;
+}
+.market3{
+    width: 90%;
+    height: 10em;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+
